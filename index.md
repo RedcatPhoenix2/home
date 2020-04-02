@@ -2,7 +2,7 @@
 
 You can sub to phoenix on [Youtube](https://www.youtube.com/channel/UC_BqPAXWMMIt2H-tdSTeggw) to support phoenix!
 
-You can help me get followers on Twitch by going to my twitch page! Go on to [Twitch](https://www.twitch.tv/redpcat_live) or [Twitter](https://www.twitter.com/gamerphoenixcat) to support me!
+You can help me get followers on Twitch by going to my twitch page! Go on to [Twitch](https://www.twitch.tv/redpcat_live) or [Twitter](https://www.twitter.com/redphoenixcat) to support me!
 
 # IDs in Games and more
 
