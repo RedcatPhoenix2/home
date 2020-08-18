@@ -19,7 +19,7 @@ You can help me get followers on Twitch by going to my twitch page! Go on to [Tw
 
 # Pages
 
-Home [Sites](https://redcatphoenix2.github.io/404) [About](https://redcatphoenix2.github.io/about)
+Home [Sites](https://redcatphoenix2.github.io/404) [About](https://redcatphoenix2.github.io/about) [Stream Countdown](https://redcatphoenix2.github.io/stream-timer/)
 
 # Stream
 
