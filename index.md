@@ -25,6 +25,13 @@ Home [Sites](https://redcatphoenix2.github.io/404) [About](https://redcatphoenix
 
 <iframe src="https://embed.restream.io/player/index.html?token=33a1c541abd776e5192e4a95393a5271" width="960" height="576" frameborder="0" allowfullscreen></iframe><p>Powered by <a href="https://restream.io">Restream.io</a></p>
 
+<iframe
+  id="chat_embed"
+  src="https://www.twitch.tv/embed/redpcat_live/chat?parent=www.example.com"
+  height="500"
+  width="350">
+</iframe>
+
 # Use code: RedPCat in Phoenix's Adventure Online!
 ## Email awesomepcat@gmail.com for anything new!
 ### ©RedPCat 2018-2020
