@@ -27,7 +27,7 @@ Home [Sites](https://redcatphoenix2.github.io/404) [About](https://redcatphoenix
 
 <iframe
   id="chat_embed"
-  src="https://www.twitch.tv/embed/redpcat_live/chat?parent=www.example.com"
+  src="https://www.twitch.tv/embed/redpcat_live/chat?parent=redcatphoenix2.github.io/home/"
   height="500"
   width="350">
 </iframe>
