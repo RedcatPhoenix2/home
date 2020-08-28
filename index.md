@@ -15,7 +15,9 @@ You can help me get followers on Twitch by going to my twitch page! Go on to [Tw
 
 ### Discord Server
 
-[RedPCat Discord](https://discord.gg/GuQkvx7) <iframe src="https://canary.discord.com/widget?id=706261591145840730&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+[RedPCat Discord](https://discord.gg/GuQkvx7) 
+
+<iframe src="https://canary.discord.com/widget?id=706261591145840730&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 # Pages
 
