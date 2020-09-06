@@ -1,5 +1,5 @@
 <head>
-  <meta name="google-site-verification" content="xuCMe7HdqRvqF8d29QdrkR7H-IHObV1wHeSvzTEeQ40" />
+  <meta name="google-site-verification" content="lMDJScB5G3ttJm3Xeqk-WRvntE6E73a1PYKCzuTEREg" />
 </head>
 
 ## Welcome to The official RedPCat Site!
