@@ -1,4 +1,6 @@
-<head><meta name="google-site-verification" content="xuCMe7HdqRvqF8d29QdrkR7H-IHObV1wHeSvzTEeQ40" /></head>
+<head>
+  <meta name="google-site-verification" content="xuCMe7HdqRvqF8d29QdrkR7H-IHObV1wHeSvzTEeQ40" />
+</head>
 
 ## Welcome to The official RedPCat Site!
 
