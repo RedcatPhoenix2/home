@@ -1,3 +1,5 @@
+<head><meta name="google-site-verification" content="xuCMe7HdqRvqF8d29QdrkR7H-IHObV1wHeSvzTEeQ40" /></head>
+
 ## Welcome to The official RedPCat Site!
 
 You can sub to phoenix on [Youtube](https://www.youtube.com/channel/UC_BqPAXWMMIt2H-tdSTeggw) to support phoenix!
