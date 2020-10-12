@@ -17,6 +17,12 @@ You can help me get followers on Twitch by going to my twitch page! Go on to [Tw
 ### NNID: MattyWestSiide (<- came with wii u) and Kanix1985 (<- Mine) and RedPCatYT (<- also mine on my 3DS)
 ### Switch Friend Code: SW-3141-3084-6543
 
+### Buttons
+
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UC_BqPAXWMMIt2H-tdSTeggw" data-layout="default" data-count="default"></div>
+
 ### Discord Server
 
 [RedPCat Discord](https://discord.gg/hF6ENAe) 
