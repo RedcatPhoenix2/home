@@ -21,7 +21,7 @@ You can help me get followers on Twitch by going to my twitch page! Go on to [Tw
 
 <script src="https://apis.google.com/js/platform.js"></script>
 
-<div class="g-ytsubscribe" data-channelid="UC_BqPAXWMMIt2H-tdSTeggw" data-layout="default" data-count="default"></div>
+<div class="g-ytsubscribe" data-channelid="UC_BqPAXWMMIt2H-tdSTeggw" data-layout="default" data-count="default"></div> <a href="https://twitter.com/redpcat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @redpcat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Discord Server
 
