@@ -31,7 +31,7 @@ You can help me get followers on Twitch by going to my twitch page! Go on to [Tw
 
 # Pages
 
-Home [Sites](https://redcatphoenix2.github.io/404) [About](https://redcatphoenix2.github.io/about) [Stream Countdown](https://redcatphoenix2.github.io/stream-timer/)
+Home [Sites](https://redcatphoenix2.github.io/404) [About](https://about.redpcat-official.ga/) [Stream Countdown](https://redcatphoenix2.github.io/stream-timer/)
 
 # Stream
 
@@ -44,7 +44,6 @@ Home [Sites](https://redcatphoenix2.github.io/404) [About](https://redcatphoenix
   width="350">
 </iframe>
 
-# Use code: RedPCat in Phoenix's Adventure Online!
 ## Email awesomepcat@gmail.com for anything new!
-### ©RedPCat 2018-2020
+### RedPCat Media Team© 2018-2020
 
