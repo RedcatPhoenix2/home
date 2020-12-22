@@ -29,6 +29,10 @@ You can help me get followers on Twitch by going to my twitch page! Go on to [Tw
 
 <iframe src="https://discord.com/widget?id=750183935664849028&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
+### Guilded Server
+
+<iframe src="https://www.guilded.gg/canvas_index.html?route=%2Fcanvas%2Fembed%2Fteamcard%2FARmNzyLl&size=large" width="553" height="262" frameborder="0" scrolling="no"></iframe>
+
 # Pages
 
 Home [Sites](https://redcatphoenix2.github.io/404) [About](https://about.redpcat-official.ga/) [Stream Countdown](https://redcatphoenix2.github.io/stream-timer/)
