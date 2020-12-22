@@ -2,7 +2,7 @@
   <meta name="google-site-verification" content="lMDJScB5G3ttJm3Xeqk-WRvntE6E73a1PYKCzuTEREg" />
 </head>
 
-## Welcome to The official RedPCat Site!
+# Welcome to The official RedPCat Site!
 
 You can sub to phoenix on [Youtube](https://www.youtube.com/channel/UC_BqPAXWMMIt2H-tdSTeggw) to support phoenix!
 
@@ -17,19 +17,19 @@ You can help me get followers on Twitch by going to my twitch page! Go on to [Tw
 ### NNID: MattyWestSiide (<- came with wii u) and Kanix1985 (<- Mine) and RedPCatYT (<- also mine on my 3DS)
 ### Switch Friend Code: SW-3141-3084-6543
 
-### Buttons
+# Buttons
 
 <script src="https://apis.google.com/js/platform.js"></script>
 
 <div class="g-ytsubscribe" data-channelid="UC_BqPAXWMMIt2H-tdSTeggw" data-layout="default" data-count="default"></div> <a href="https://twitter.com/redpcat?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @redpcat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Discord Server
+# Discord Server
 
 [RedPCat Discord](https://discord.gg/hF6ENAe) 
 
 <iframe src="https://discord.com/widget?id=750183935664849028&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
-### Guilded Server
+# Guilded Server
 
 <iframe src="https://www.guilded.gg/canvas_index.html?route=%2Fcanvas%2Fembed%2Fteamcard%2FARmNzyLl&size=large" width="553" height="262" frameborder="0" scrolling="no"></iframe>
 
@@ -48,6 +48,6 @@ Home [Sites](https://redcatphoenix2.github.io/404) [About](https://about.redpcat
   width="350">
 </iframe>
 
-## Email awesomepcat@gmail.com for anything new!
-### RedPCat Media Team© 2018-2020
+# Email awesomepcat@gmail.com for anything new!
+# RedPCat Media Team© 2018-2020
 
