@@ -39,11 +39,32 @@ Home [Sites](https://redcatphoenix2.github.io/404) [About](https://about.redpcat
 
 # Stream
 
-<iframe src="https://embed.restream.io/player/index.html?token=33a1c541abd776e5192e4a95393a5271" width="960" height="576" frameborder="0" allowfullscreen></iframe><p>Powered by <a href="https://restream.io">Restream.io</a></p>
+<html>
+  <body>
+    <!-- Add a placeholder for the Twitch embed -->
+    <div id="twitch-embed"></div>
+    <script src="https://embed.twitch.tv/embed/v1.js"></script>
+    <script type="text/javascript">
+      var embed = new Twitch.Embed("twitch-embed", {
+        width: 854,
+        height: 480,
+        channel: "redpcat_live",
+        layout: "video",
+        autoplay: false,
+        // only needed if your site is also embedded on embed.example.com and othersite.example.com 
+        parent: ["redcatphoenix2.github.io"]
+      });
+        embed.addEventListener(Twitch.Embed.VIDEO_READY, () => {
+        var player = embed.getPlayer();
+        player.play();
+      });
+    </script>
+  </body>
+</html>
 
 <iframe
   id="chat_embed"
-  src="https://www.twitch.tv/embed/redpcat_live/chat?parent=redpcat-official.ga"
+  src="https://www.twitch.tv/embed/redpcat_live/chat?parent=redcatphoenix.github.io"
   height="500"
   width="350">
 </iframe>
