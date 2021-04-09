@@ -2,6 +2,8 @@
   <meta name="google-site-verification" content="lMDJScB5G3ttJm3Xeqk-WRvntE6E73a1PYKCzuTEREg" />
 </head>
 
+<!-- Ha, You weren't supposed to see this. Isn't that funny? -->
+
 # Welcome to The official RedPCat Site!
 
 You can sub to phoenix on [Youtube](https://www.youtube.com/channel/UC_BqPAXWMMIt2H-tdSTeggw) to support phoenix!
@@ -64,7 +66,7 @@ Home [Sites](https://redcatphoenix2.github.io/404) [About](https://about.redpcat
 
 <iframe
   id="chat_embed"
-  src="https://www.twitch.tv/embed/redpcat_live/chat?parent=redcatphoenix.github.io"
+  src="https://www.twitch.tv/embed/redpcat_live/chat?parent=redcatphoenix2.github.io"
   height="500"
   width="350">
 </iframe>
