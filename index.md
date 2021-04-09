@@ -29,7 +29,7 @@ You can help me get followers on Twitch by going to my twitch page! Go on to [Tw
 
 [RedPCat Discord](https://discord.gg/hF6ENAe) 
 
-<iframe src="https://discord.com/widget?id=750183935664849028&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe src="https://canary.discord.com/widget?id=750183935664849028&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 # Guilded Server
 
